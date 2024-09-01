@@ -21,7 +21,7 @@
 
 ### Coding Activities
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faulty337&show_icons=true&theme=radical)
-  
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=faulty337&layout=compact&theme=radical) -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=faulty337)](https://solved.ac/faulty337/)
 
 
