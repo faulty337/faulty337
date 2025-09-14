@@ -25,6 +25,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=faulty337)](https://solved.ac/faulty337/)
 
 
-### Other Activities
+<!-- ### Other Activities
 <img src="https://github.com/user-attachments/assets/cc97f3de-fa82-463e-81f8-72b9dd800d9e" alt="Velog" width="200"/>
-
+-->
